@@ -1,0 +1,11 @@
+{
+  "project_dir": "/mnt/data/recommender_demo",
+  "files": [
+    "README.md",
+    "app.py",
+    "interactions.csv",
+    "products.csv",
+    "requirements.txt",
+    "svd_model.npz"
+  ]
+}
